@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FLY8RY6ed6HzB37wpkPpjhOhUivjq3LkOeArDCFZgVmEfhxY0tVdBpdo8lk1/tPZKkR4B7Qe41a09OzKlD5LRQ==",
+  "dgSpecHash": "zEFjLwer6yUmtyoJep4DHaX2cNh+Oe6yeOYeqP8f9wTYx+YsCMuVviMCwircBqV2Hk2eTOx1YzycgZ5iacdz6w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jambo\\Desktop\\DNPAssignment4-df3c0ab1fe2d1689f5c9356b7e0936b32b34e667\\Assignment4\\Assignment4.csproj",
+  "projectFilePath": "C:\\Users\\jambo\\RiderProjects\\DNPAssignment4\\Assignment4\\Assignment4.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jambo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\jambo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
